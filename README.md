@@ -5,3 +5,6 @@ Developed and trained a transformer-based model for nurse stress prediction usin
 App Demo:- https://drive.google.com/file/d/1x5zb90eCzykIZkpGToGh4FKq_qYqmK5F/view?usp=sharing
 
 Dataset:- https://www.kaggle.com/datasets/priyankraval/nurse-stress-prediction-wearable-sensors
+
+## App Design and Flow
+![App Design and Flow](StressTrackerFlow.png)
