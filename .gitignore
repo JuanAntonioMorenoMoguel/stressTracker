@@ -1,0 +1,7 @@
+*.pth
+
+trans_log.txt
+
+*.csv
+
+/venv

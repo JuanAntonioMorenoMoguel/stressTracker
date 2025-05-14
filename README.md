@@ -1,10 +1,11 @@
 # stressTracker
 
-Developed and trained a transformer-based model for nurse stress prediction using physiological data from the Empatica E4 biosensor. Built an Android application using Android Studio to interface with the Empatica E4 device, process real-time sensor inputs, and apply trained model weights to provide stress-level predictions. The project combines deep learning and mobile application development to support real-time healthcare monitoring and decision-making.
-
-App Demo:- https://drive.google.com/file/d/1x5zb90eCzykIZkpGToGh4FKq_qYqmK5F/view?usp=sharing
-
 Dataset:- https://www.kaggle.com/datasets/priyankraval/nurse-stress-prediction-wearable-sensors
 
-## App Design and Flow
-![App Design and Flow](StressTrackerFlow.png)
+To test the model:
+
+- Unzip the model_h64_fdim_1024_acc93.zip
+- Take the .pth file to the main folder
+- Create an environment with python -m venv venv
+- Install dependencies with pip install -r requirements
+- Run the train.py 
